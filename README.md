@@ -36,4 +36,22 @@ _Fast Lending is a peer lending services company. This analysis is created using
 
 <img width="1019" alt="Screen Shot 2021-04-25 at 4 17 00 PM" src="https://user-images.githubusercontent.com/74740339/116008303-d681fd80-a5e1-11eb-9c4e-343d8467f8b3.png">
 
+# Undersampling
+
+* Accuracy score for the model.
+
+<img width="1006" alt="Screen Shot 2021-04-25 at 4 20 54 PM" src="https://user-images.githubusercontent.com/74740339/116008399-51e3af00-a5e2-11eb-8016-0cff218c307b.png">
+
+* Confusion matrix.
+
+<img width="1010" alt="Screen Shot 2021-04-25 at 4 21 05 PM" src="https://user-images.githubusercontent.com/74740339/116008406-5dcf7100-a5e2-11eb-83d5-b85789a53a6a.png">
+
+
+* An imbalanced classification report.
+
+<img width="1007" alt="Screen Shot 2021-04-25 at 4 21 31 PM" src="https://user-images.githubusercontent.com/74740339/116008417-6c1d8d00-a5e2-11eb-8f0d-15a17d1d4948.png">
+
+
+
+
 
