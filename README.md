@@ -8,9 +8,15 @@ _Fast Lending is a peer lending services company. This analysis is created using
 
 # Random Oversampling
 
-* An accuracy score for the model is calculated 
+* Accuracy score for the model.
 
-![image](https://user-images.githubusercontent.com/74740339/116007951-3f687600-a5e0-11eb-8bfd-9cb492b94f03.png)
+![image](https://user-images.githubusercontent.com/74740339/116007964-55763680-a5e0-11eb-960e-1d63db667374.png)
 
-*
-*
+* Confusion matrix 
+
+![image](https://user-images.githubusercontent.com/74740339/116008018-9cfcc280-a5e0-11eb-8a0b-5123e47b8fc0.png)
+
+* An imbalanced classification report.
+
+![image](https://user-images.githubusercontent.com/74740339/116008031-aa19b180-a5e0-11eb-8f2d-c021a13b0f7a.png)
+
